@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @danielalejandrotosta
 - 👀 I’m interested in regenerative agriculture, coding is ok too. 
 - 🌱 I’m perpetually learning regen-ag and things surrounding javascript.
-- 💞️ I’m looking to collaborate on JS projects/
+- 💞️ I’m looking to collaborate on JS projects
 - 📫 How to reach me danielalejandrotosta@gmail.com
 
 <!---
